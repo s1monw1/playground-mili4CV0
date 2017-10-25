@@ -1,4 +1,11 @@
 # Spring 5.0 - even fancier
+_Disclaimer: My articles are published under 
+<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode" target="_blank">"Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)"</a>._
+
+© Copyright: Simon Wirtz, 2017
+https://blog.simon-wirtz.de/spring-webflux-with-kotlin-reactive-web
+
+Feel free to share.
 
 If you’re not familiar with my articles, have a look at the other Kotlin related posts
 [here](https://blog.simon-wirtz.de/category/kotlin/). Besides Kotlin, I’ve always been interested in working with **[Spring](https://spring.io)** ever since I started with Java back in 2011. I still like the framework although it’s getting bigger and bigger and you often don’t quite know which feature to choose amongst all the
